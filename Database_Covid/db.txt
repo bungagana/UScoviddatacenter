@@ -1,0 +1,29 @@
+
+import streamlit as st
+import mysql.connector
+# Connect to database
+cnx = mysql.connector.connect(user='root', password='', host='localhost', database='covidform')
+
+cursor = cnx.cursor()
+# If form is submitted, add data to database
+if submit:
+    # Execute SQL query to insert data
+    query = "INSERT INTO my_table (name, location, phone, complaint) VALUES (%s, %s, %s, %s)"
+    values = (name, location, phone, complaint)
+    cursor.execute(query, values)
+    cnx.commit()
+    st.success('Data added to database')
+
+# Execute SQL query
+query = "SELECT * FROM mytable"
+cursor.execute(query)
+rows = cursor.fetchall()
+st.table(rows)
+
+# Close cursor and connection
+cursor.close()
+cnx.close()
+
+# Close cursor and connection
+cursor.close()
+cnx.close()

@@ -1,0 +1,152 @@
+date,state,fips,cases,deaths
+2020-02-25,Utah,49,1,0
+2020-02-25,Washington,53,5,0
+2020-02-25,Wisconsin,55,1,0
+2020-02-26,Arizona,04,1,0
+2020-02-26,California,06,26,0
+2020-02-26,Illinois,17,2,0
+2020-02-26,Massachusetts,25,1,0
+2020-02-26,Nebraska,31,13,0
+2020-02-26,Texas,48,10,0
+2020-02-26,Utah,49,1,0
+2020-02-26,Washington,53,5,0
+2020-02-26,Wisconsin,55,1,0
+2020-02-27,Arizona,04,1,0
+2020-02-27,California,06,26,0
+2020-02-27,Illinois,17,2,0
+2020-02-27,Massachusetts,25,1,0
+2020-02-27,Nebraska,31,13,0
+2020-02-27,Texas,48,10,0
+2020-02-27,Utah,49,1,0
+2020-02-27,Washington,53,5,0
+2020-02-27,Wisconsin,55,1,0
+2020-02-28,Arizona,04,1,0
+2020-02-28,California,06,27,0
+2020-02-28,Illinois,17,2,0
+2020-02-28,Massachusetts,25,1,0
+2020-02-28,Nebraska,31,13,0
+2020-02-28,Oregon,41,1,0
+2020-02-28,Texas,48,11,0
+2020-02-28,Utah,49,1,0
+2020-02-28,Washington,53,7,0
+2020-02-28,Wisconsin,55,1,0
+2020-02-29,Arizona,04,1,0
+2020-02-29,California,06,28,0
+2020-02-29,Illinois,17,3,0
+2020-02-29,Massachusetts,25,1,0
+2020-02-29,Nebraska,31,13,0
+2020-02-29,Oregon,41,1,0
+2020-02-29,Texas,48,11,0
+2020-02-29,Utah,49,1,0
+2020-02-29,Washington,53,10,1
+2020-02-29,Wisconsin,55,1,0
+2020-03-01,Arizona,04,1,0
+2020-03-01,California,06,33,0
+2020-03-01,Florida,12,2,0
+2020-03-01,Illinois,17,3,0
+2020-03-01,Massachusetts,25,1,0
+2020-03-01,Nebraska,31,13,0
+2020-03-01,New York,36,1,0
+2020-03-01,Oregon,41,2,0
+2020-03-01,Rhode Island,44,2,0
+2020-03-01,Texas,48,11,0
+2020-03-01,Utah,49,1,0
+2020-03-01,Washington,53,17,3
+2020-03-01,Wisconsin,55,1,0
+2020-03-02,Arizona,04,1,0
+2020-03-02,California,06,38,0
+2020-03-02,Florida,12,2,0
+2020-03-02,Georgia,13,2,0
+2020-03-02,Illinois,17,4,0
+2020-03-02,Massachusetts,25,2,0
+2020-03-02,Nebraska,31,13,0
+2020-03-02,New Hampshire,33,1,0
+2020-03-02,New York,36,1,0
+2020-03-02,Oregon,41,2,0
+2020-03-02,Rhode Island,44,2,0
+2020-03-02,Texas,48,11,0
+2020-03-02,Utah,49,1,0
+2020-03-02,Washington,53,23,6
+2020-03-02,Wisconsin,55,1,0
+2020-03-03,Arizona,04,2,0
+2020-03-03,California,06,45,0
+2020-03-03,Florida,12,3,0
+2020-03-03,Georgia,13,2,0
+2020-03-03,Illinois,17,4,0
+2020-03-03,Massachusetts,25,2,0
+2020-03-03,Nebraska,31,13,0
+2020-03-03,New Hampshire,33,2,0
+2020-03-03,New York,36,2,0
+2020-03-03,North Carolina,37,1,0
+2020-03-03,Oregon,41,2,0
+2020-03-03,Rhode Island,44,2,0
+2020-03-03,Texas,48,11,0
+2020-03-03,Utah,49,1,0
+2020-03-03,Washington,53,32,10
+2020-03-03,Wisconsin,55,1,0
+2020-03-04,Arizona,04,2,0
+2020-03-04,California,06,55,1
+2020-03-04,Florida,12,3,0
+2020-03-04,Georgia,13,2,0
+2020-03-04,Illinois,17,4,0
+2020-03-04,Massachusetts,25,2,0
+2020-03-04,Nebraska,31,13,0
+2020-03-04,New Hampshire,33,2,0
+2020-03-04,New Jersey,34,1,0
+2020-03-04,New York,36,11,0
+2020-03-04,North Carolina,37,1,0
+2020-03-04,Oregon,41,2,0
+2020-03-04,Rhode Island,44,2,0
+2020-03-04,Texas,48,12,0
+2020-03-04,Utah,49,1,0
+2020-03-04,Washington,53,47,11
+2020-03-04,Wisconsin,55,1,0
+2020-03-05,Arizona,04,2,0
+2020-03-05,California,06,67,1
+2020-03-05,Colorado,08,2,0
+2020-03-05,Florida,12,4,0
+2020-03-05,Georgia,13,2,0
+2020-03-05,Illinois,17,5,0
+2020-03-05,Maryland,24,3,0
+2020-03-05,Massachusetts,25,3,0
+2020-03-05,Nebraska,31,13,0
+2020-03-05,Nevada,32,2,0
+2020-03-05,New Hampshire,33,2,0
+2020-03-05,New Jersey,34,2,0
+2020-03-05,New York,36,22,0
+2020-03-05,North Carolina,37,1,0
+2020-03-05,Oregon,41,2,0
+2020-03-05,Rhode Island,44,2,0
+2020-03-05,Tennessee,47,1,0
+2020-03-05,Texas,48,16,0
+2020-03-05,Utah,49,1,0
+2020-03-05,Washington,53,75,11
+2020-03-05,Wisconsin,55,1,0
+2020-03-06,Arizona,04,3,0
+2020-03-06,California,06,81,1
+2020-03-06,Colorado,08,8,0
+2020-03-06,Florida,12,7,2
+2020-03-06,Georgia,13,3,0
+2020-03-06,Hawaii,15,1,0
+2020-03-06,Illinois,17,6,0
+2020-03-06,Indiana,18,1,0
+2020-03-06,Kentucky,21,1,0
+2020-03-06,Maryland,24,3,0
+2020-03-06,Massachusetts,25,8,0
+2020-03-06,Minnesota,27,1,0
+2020-03-06,Nebraska,31,14,0
+2020-03-06,Nevada,32,2,0
+2020-03-06,New Hampshire,33,2,0
+2020-03-06,New Jersey,34,4,0
+2020-03-06,New York,36,44,0
+2020-03-06,North Carolina,37,2,0
+2020-03-06,Oklahoma,40,1,0
+2020-03-06,Oregon,41,2,0
+2020-03-06,Pennsylvania,42,2,0
+2020-03-06,Rhode Island,44,3,0
+2020-03-06,South Carolina,45,2,0
+2020-03-06,Tennessee,47,1,0
+2020-03-06,Texas,48,19,0
+2020-03-06,Utah,49,3,0
+2020-03-06,Washington,53,86,12
+2020-03-06,Wisconsin,55,1,0
